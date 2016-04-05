@@ -1,89 +1,48 @@
-# awesome-dotnet-cn
+# DotNet 资源大全中文版 
 
-Awesome DotNet，这又是一个 Awesome XXX 系列的资源整理，由 quozd 发起和维护。内容包括：编译器、压缩、应用框架、应用模板、加密、数据库、反编译、IDE、日志、风格指南等。
+我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-dotnet](https://github.com/quozd/awesome-dotnet) 是由 quozd 发起和维护。内容包括：编译器、压缩、应用框架、应用模板、加密、数据库、反编译、IDE、日志、风格指南等。
 
-> 伯乐在线已在 GitHub 上发起「DotNet 资源大全中文版」的整理。欢迎扩散、欢迎加入。 [https://github.com/jobbole/awesome-dotnet-cn](https://github.com/jobbole/awesome-dotnet-cn)
+Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
+
+* * *
+
+### 我们要做什么？
+
+- 基于 awesome-dotnet 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。
+- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
+  - 《[Scrapy：Python的爬虫框架](http://hao.jobbole.com/python-scrapy/)》
+  - 《[Flask：一个使用Python编写的轻量级Web应用框架](http://hao.jobbole.com/flask/)》
+
+* * *
+
+### 如何参与本项目？
+
+从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
+
+不过加入前，有几个小要求：
+
+* 英文还不错，能读懂英文并用自己的话复述；
+* 在用 DotNet；
+
+如有兴趣，请加 QQ：50872495。加 Q 时请注明「DotNet大全」
+
+* * *
+
+### 本项目的参与者
+
+- 维护者：
+- 贡献者：[Erucy](http://www.jobbole.com/members/Erucy)、你
+
+注：名单不分排名，不定期补充更新
+
+### 最新活动
+
+* **贡献打赏：**整理 20 个资源以上的朋友会开通打赏功能，参见[Dropwizard](http://hao.jobbole.com/dropwizard/)结尾打赏信息。
+* **整理技术资源，赠送经典书籍**： 每整理 20 个资源，赠送技术书籍一本。[活动详情](http://group.jobbole.com/13769/)
 
 * * *
 
 （注：下面用 [$] 标注的表示收费工具，但部分收费工具针对开源软件的开发/部署/托管是免费的）
-
-*   [目录](#awesome-dotnet)
-    *   [API](#api)
-    *   [应用框架（Application Frameworks）](#application-frameworks)
-    *   [应用模板（Application Templates）](#application-templates)
-    *   [人工智能（Artificial Intelligence）](#artificial-intelligence)
-    *   [程序集处理（Assembly Manipulation）](#assembly-manipulation)
-    *   [资产（Assets）](#assets)
-    *   [认证和授权（Authentication and Authorization）](#authentication-and-authorization)
-    *   [自动构建（Build Automation）](#build-automation)
-    *   [缓存（Caching）](#caching)
-    *   [CLI](#cli)
-    *   [CLR](#clr)
-    *   [CMS](#cms)
-    *   [代码分析和度量（Code Analysis and Metrics）](#code-analysis-and-metrics)
-    *   [编译器（Compiler）](#compiler)
-    *   [压缩（Compression）](#compression)
-    *   [持续集成（Continuous Integration）](#continuous-integration)
-    *   [加密（Cryptography）](#cryptography)
-    *   [数据库（Database）](#database)
-    *   [数据库驱动（Database Drivers）](#database-drivers)
-    *   [反编译（Decompilation）](#decompilation)
-    *   [部署（Deployment）](#deployment)
-    *   [DirectX](#directx)
-    *   [分布式计算（Distributed Computing）](#distributed-computing)
-    *   [文档（Documentation）](#documentation)
-    *   [电子商务和支付（E-Commerce and Payments）](#e-commerce-and-payments)
-    *   [环境管理（Environment Management）](#environment-management)
-    *   [ETL](#etl)
-    *   [游戏（Game）](#game)
-    *   [地理信息系统（Gis）](#gis)
-    *   [Git工具（Git Tools）](#git-tools)
-    *   [图形（Graphics）](#graphics)
-    *   [GUI](#gui)
-    *   [HTML 和 CSS](#html-and-css)
-    *   [HTTP](#http)
-    *   [IDE](#ide)
-    *   [图像处理（Image Processing）](#image-processing)
-    *   [安装工具（Install Tools）](#install-tools)
-    *   [国际化（Internationalization）](#internationalization)
-    *   [互操作（Interoperability）](#interoperability)
-    *   [IoC](#ioc)
-    *   [日志（Logging）](#logging)
-    *   [邮件（Mail）](#mail)
-    *   [机器学习和数据科学（Machine Learning and Data Science）](#machine-learning-and-data-science)
-    *   [Markdown 处理（Markdown Processors）](#markdown-processors)
-    *   [数学（Mathematics）](#mathematics)
-    *   [媒体（Media）](#media)
-    *   [度量（Metrics）](#metrics)
-    *   [Micro Framework](#micro-framework)
-    *   [杂项（Misc）](#misc)
-    *   [MVVM](#mvvm)
-    *   [Office](#office)
-    *   [ORM](#orm)
-    *   [包管理（Package Management）](#package-management)
-    *   [PDF](#pdf)
-    *   [Profiler](#profiler)
-    *   [推送通知（Push Notifications）](#push-notifications)
-    *   [队列（Queue）](#queue)
-    *   [反应性编程（Reactive Programming）](#reactive-programming)
-    *   [计划（Scheduling）](#scheduling)
-    *   [SDK 和 API 客户端（SDK and API Clients）](#sdk-and-api-clients)
-    *   [搜索（Search）](#search)
-    *   [序列化（Serialization）](#serialization)
-    *   [状态机（State machines）](#state-machines)
-    *   [静态网站生成（Static Site Generators）](#static-site-generators)
-    *   [风格指南（Style Guide）](#style-guide)
-    *   [模板引擎（Template Engine）](#template-engine)
-    *   [测试（Testing）](#testing)
-    *   [交易（Trading）](#trading)
-    *   [Visual Studio 插件（Visual Studio Plugins）](#visual-studio-plugins)
-    *   [Web 框架（Web Frameworks）](#web-frameworks)
-    *   [Web 服务器（Web Servers）](#web-servers)
-    *   [WebSocket](#websocket)
-    *   [Windows 服务（Windows Services）](#windows-services)
-    *   [其他列表（Other Lists）](#other-lists)
-*   [其他资源大全列表](#other-awesome-lists)
 
 ## API
 
@@ -624,6 +583,17 @@ Awesome DotNet，这又是一个 Awesome XXX 系列的资源整理，由 quozd �
 *   [.NET-libraries-that-make-your-life-easier](https://github.com/tallesl/.NET-libraries-that-make-your-life-easier)：开源的 .NET 库，让你的生活更加轻松、
 *   [awesome-LINQ](https://github.com/aloisdg/awesome-linq)：一组精心挑选的超棒的 LINQ 类库、工具等。
 
-# DotNet 资源大全中文版
+<h3 id="websites">知名网站</h3>
+*值得关注的 DotNet 技术站点。*
 
-伯乐在线已在 GitHub 上发起「DotNet 资源大全中文版」的整理。欢迎扩散、欢迎加入。 [https://github.com/jobbole/awesome-dotnet-cn](https://github.com/jobbole/awesome-dotnet-cn)
+<h4>中文站点</h4>
+
+待补充
+
+<h4>英文站点</h4>
+
+待补充
+
+<h3 id="weibo-weixin">微信公众号</h3>
+* 「DotNet」：专注 .NET 相关内容，包括：.NET 和 C# 开发心得、工具资源和相关动态。
+<br><img src="http://ww4.sinaimg.cn/small/63918611gw1epb2c79isfj20460460tr.jpg" width=150 height=150>
