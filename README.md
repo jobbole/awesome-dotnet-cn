@@ -456,7 +456,6 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ## 队列（Queue）
 
 *   [NServiceBus](https://github.com/Particular/NServiceBus)：.NET 平台下最流行的服务总线。
-*   [Hangfire](https://github.com/HangfireIO/Hangfire)：在 ASP.NET 应用中，超简单地实现自主引导（fire-and-forget）、延迟和周期重复任务。
 *   [RabbitMQ.NET](http://hg.rabbitmq.com/rabbitmq-dotnet-client/)：AMQP 客户端的 C# 实现，通过 WCF 绑定到已有的 AMQP 服务。
 *   [NetMQ](https://github.com/zeromq/netmq)：NetMQ 是 ZeroMQ 纯 C# 移植版本。
 *   [MassTransit](https://github.com/MassTransit/MassTransit)：MassTransit 是一个精简服务总线（lean service bus）的实现，使用 .NET Framework 来构建松耦合应用程序。
@@ -472,6 +471,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ## 计划调度（Scheduling）
 
 *   [QuartzNet](https://github.com/quartznet/quartznet)：Quartz 是 .NET 平台的企业级调度器。
+*   [Hangfire](https://github.com/HangfireIO/Hangfire)：在 ASP.NET 应用中，超简单地实现自主引导（fire-and-forget）、延迟和周期重复任务。高级版需要收费。
+*   [Azure WebJobs](https://azure.microsoft.com/en-us/documentation/articles/app-service-webjobs-readme/)：Azure WebJobs 是Azure中App Services一个附属服务，为Azure中运行的Web App提供后台运行环境（支持多种语言编写Job），有.NET的SDK[开源](https://github.com/Azure/azure-webjobs-sdk)，并且可以直接添加扩展[也开源](https://github.com/Azure/azure-webjobs-sdk-extensions)。
 
 ## SDK 和 API 客户端（SDK and API Clients）
 
