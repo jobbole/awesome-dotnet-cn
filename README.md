@@ -566,6 +566,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   [EmbedIO](https://github.com/unosquare/embedio) ：基于 Mono 编写的跨平台的 Web 服务器。
 *   [XSP](https://github.com/mono/xsp)：Mono 中的 ASP.NET 宿主服务器。该模块包含了 Apache 模块、FastCGI 模块，可以用于挂载到其它 web 服务器或是作为一个测试用的独立服务器存在（类似微软的 Cassini 项目）。
+*   [Jexus](http://www.jexus.org/)：强劲、坚固、免费、易用的Linux ASP.NET服务器
 
 ## WebSocket
 
@@ -574,6 +575,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Websocket-Sharp](https://github.com/sta/websocket-sharp)：WebSocket 协议的 C# 实现，包含客户端和服务器端。
 *   [XSockets](http://xsockets.net/)：提供了一组工具，可以在微软 .NET 等平台上构建一个实时应用程序。
 *   [WebSocket4NET](https://websocket4net.codeplex.com)：.NET 2.0+、Xamarin、Mono、Silverlight、Windows Phone 以及 WinRT 下的 WebSocket 客户端。
+*   [SuperSocket](http://www.supersocket.net/)：一个轻量级, 跨平台而且可扩展的 .Net/Mono Socket 服务器程序框架。
 
 ## Windows 服务（Windows Services）
 
