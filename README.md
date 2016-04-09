@@ -31,7 +31,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[Erucy](http://www.jobbole.com/members/Erucy)、你
+- 贡献者：[Erucy](http://www.jobbole.com/members/Erucy)、[heavenwing](https://github.com/heavenwing)、[Podolski](https://github.com/circler3)、[JRoger](https://github.com/Oger-Me)、你
 
 注：名单不分排名，不定期补充更新
 
@@ -282,6 +282,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [ExCSS](https://github.com/TylerBrinks/ExCSS)：C# 的 CSS3 解析器开发库。
 *   [FluentBootstrap](http://fluentbootstrap.com)：让ASP.NET MVC 和 WebPages 更容易使用 Boostrap CSS 框架。
 *   [HtmlAgilityPack](http://htmlagilitypack.codeplex.com/)：一个灵活的 HTML 解析器，可以对 DOM 进行读写，支持 XPATH 和 XSLT。
+*   [Jumony](https://github.com/Ivony/Jumony)：类似HtmlAgilityPack框架，性能有改善。
 
 ## HTTP
 
