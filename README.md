@@ -237,7 +237,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [MonoGame](https://github.com/mono/MonoGame)：一个用来创建跨平台游戏的强大框架。
 *   [CocosSharp](https://github.com/mono/CocosSharp)：CocosSharp 是 Cocos2D 和 Cocos3D API 的 C# 实现版本，可以在所有支持 MonoGame 的平台上运行。
 *   [Duality](https://github.com/AdamsLair/duality)：Duality 是一个 2D 游戏开发框架。专注于功能的模块化，自带一个可视化编辑器。
-*   [Paradox](https://github.com/SiliconStudio/paradox)：Paradox 游戏引擎。[http://paradox3d.net](http://paradox3d.net)
+*   [Xenko](https://github.com/SiliconStudio/xenko)：Xenko 游戏引擎。[http://xenko.com/](http://xenko.com/)
 
 ## 地理信息系统（Gis）
 
