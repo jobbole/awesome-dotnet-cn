@@ -419,7 +419,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   ClosedXML：ClosedXML 能够让开发人员更便捷地创建 Excel 2007、2010 文件。[官网](https://closedxml.codeplex.com/)
 *   NPOI：该项目是 .NET 版本的 POI 项目，原始的 Java 版本位于[http://poi.apache.org/](http://poi.apache.org/) 。[官网](http://npoi.codeplex.com/)
-*   EPPlus：EPPlus 是一个 .net 类库，用于读写 Open Office Xml 格式的 Excel 2007、2010 文件（xlsx）。[官网](http://epplus.codeplex.com/)
+*   [EPPlus](http://hao.jobbole.com/epplus/)：EPPlus 是一个 .net 类库，用于读写 Open Office Xml 格式的 Excel 2007、2010 文件（xlsx）。[官网](http://epplus.codeplex.com/)
 *   Open XML SDK：Open XML SDK 是一个开源库，用于处理 Open XML 文档（包括 DOCX、XLSX 和 PPTX）。[官网](https://github.com/officedev/open-xml-sdk)
 
 ## ORM
@@ -492,7 +492,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ## 序列化（Serialization）
 
 *   Protobuf.NET：Protocol buffers 是 Google 使用的二进制序列化格式，在 Google 数据通讯中大量使用。[官网](https://github.com/mgravell/protobuf-net)
-*   Json.NET：.NET 平台下流行的、高性能 JSON 框架。[官网](https://github.com/JamesNK/Newtonsoft.Json)
+*   [Json.NET](http://hao.jobbole.com/json-net/)：.NET 平台下流行的、高性能 JSON 框架。[官网](https://github.com/JamesNK/Newtonsoft.Json)
 *   ServiceStack.Text：在 servicestack.net 中使用的 JSON、JSV、CSV 文本序列化器。[官网](https://github.com/ServiceStack/ServiceStack.Text)
 *   Msgpack-Cli：MessagePack 的 CLI 实现。[官网](https://github.com/msgpack/msgpack-cli)
 *   Jil：.NET 平台下快速的 JSON 序列化器，基于 Sigil （在 StackOverflow 中使用）。[官网](https://github.com/kevin-montrose/Jil)
@@ -571,7 +571,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ## WebSocket
 
-*   SignalR：ASP.NET 库，开发者可以通过它在 web 应用程序中非常简单地实现实时功能。[官网](https://github.com/SignalR/SignalR)
+*   [SignalR](http://hao.jobbole.com/signalr/)：ASP.NET 库，开发者可以通过它在 web 应用程序中非常简单地实现实时功能。[官网](https://github.com/SignalR/SignalR)
 *   Fleck：Fleck 是一个 C# 实现的 WebSocket 服务器。分支自 Nugget 项目。[官网](https://github.com/statianzo/Fleck)
 *   Websocket-Sharp：WebSocket 协议的 C# 实现，包含客户端和服务器端。[官网](https://github.com/sta/websocket-sharp)
 *   XSockets：提供了一组工具，可以在微软 .NET 等平台上构建一个实时应用程序。[官网](http://xsockets.net/)
