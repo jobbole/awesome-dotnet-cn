@@ -405,7 +405,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ## MVVM
 
 *   Caliburn.Micro：小型但功能强大的框架，可以用来给所有 XAML 平台创建应用。它对 MV* 模式的强大支持可以让你快速构建你的解决方案，与此同时不必牺牲代码质量和可测试能力。[官网](https://github.com/Caliburn-Micro/Caliburn.Micro) 
-*   MVVM Light Toolkit：该工具箱主要是用来加速创建和开发 MVVM 应用，适用于 WPF、Silverlight、Windows Store（RT）和 Windows Phone 平台。[官网](https://mvvmlight.codeplex.com/)
+*   [MVVM Light Toolkit](http://hao.jobbole.com/mvvm-light-toolkit/)：该工具箱主要是用来加速创建和开发 MVVM 应用，适用于 WPF、Silverlight、Windows Store（RT）和 Windows Phone 平台。[官网](https://mvvmlight.codeplex.com/)
 *   Catel：Catel 是一个应用开发平台，主要着眼在 MVVM（WPF、Silverlight、Windows Phone 及 WinRT）以及 MVC（ASP.NET MVC）。Catel 的核心部分包含 IoC 容器、模型、校验、备忘录模式（memento）、消息中介（message mediator）、参数检查等。[官网](https://catel.codeplex.com/)
 *   UpdateControls：Update Controls 不需要你实现 INotifyPropertyChanged 接口或声明一个 DependencyProperty。可以将控件直接关联到 CLR 属性，这使得它完美贴合 MVVM 模式。[官网](http://updatecontrols.net/cs/)
 *   ReactiveUI：一个 .NET 下的 MVVM 框架，集成了反应性扩展框架（Rx），允许开发者使用 WPF、Windows Store Apps、WP8 或 Xamarin 创建优雅的、可测试的应用。[官网](https://github.com/reactiveui/reactiveui/)
