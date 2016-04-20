@@ -335,6 +335,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Spring.Net：Spring.NET 是一个开源应用程序框架，可以便捷地创建企业级 .NET 应用。[官网](https://github.com/spring-projects/spring-net)
 *   LightInject：一个超轻量级 IoC 容器。[官网](https://github.com/seesharper/LightInject) 
 *   TinyIoC：单文件、简单、跨平台的 IoC 容器。[官网](https://github.com/grumpydev/TinyIoC)
+*   MEF：是.NET平台下的一个扩展性管理框架，它是一系列特性的集合，包括依赖注入（DI）以及Duck Typing等。 [官网](http://mef.codeplex.com/)
 
 ## 日志（Logging）
 
@@ -404,6 +405,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ## MVVM
 
+*   [Prism](https://github.com/PrismLibrary/Prism): 微软Patterns & Practices团队开发的项目，目的在于帮助开发人员构建松散耦合的、更灵活、更易于维护并且更易于测试Xaml的程序。实现了PubSub的消息传递模型，多种可选的IoC容器，Prism 6支持WPF,Windows 10 UWP和Xamarin Forms。
 *   Caliburn.Micro：小型但功能强大的框架，可以用来给所有 XAML 平台创建应用。它对 MV* 模式的强大支持可以让你快速构建你的解决方案，与此同时不必牺牲代码质量和可测试能力。[官网](https://github.com/Caliburn-Micro/Caliburn.Micro) 
 *   [MVVM Light Toolkit](http://hao.jobbole.com/mvvm-light-toolkit/)：该工具箱主要是用来加速创建和开发 MVVM 应用，适用于 WPF、Silverlight、Windows Store（RT）和 Windows Phone 平台。[官网](https://mvvmlight.codeplex.com/)
 *   Catel：Catel 是一个应用开发平台，主要着眼在 MVVM（WPF、Silverlight、Windows Phone 及 WinRT）以及 MVC（ASP.NET MVC）。Catel 的核心部分包含 IoC 容器、模型、校验、备忘录模式（memento）、消息中介（message mediator）、参数检查等。[官网](https://catel.codeplex.com/)
@@ -586,6 +588,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   [.NET-libraries-that-make-your-life-easier](https://github.com/tallesl/.NET-libraries-that-make-your-life-easier)：开源的 .NET 库，让你的生活更加轻松、
 *   [awesome-LINQ](https://github.com/aloisdg/awesome-linq)：一组精心挑选的超棒的 LINQ 类库、工具等。
+*   [Enterprise Library](http://entlib.codeplex.com/)：微软Patterns & Practices团队开发的项目，一系列组件的集合，包括缓存，数据验证，日志，异常处理等等。
 
 <h3 id="websites">知名网站</h3>
 *值得关注的 DotNet 技术站点。*
