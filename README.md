@@ -421,7 +421,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ## Office
 
 *   ClosedXML：ClosedXML 能够让开发人员更便捷地创建 Excel 2007、2010 文件。[官网](https://closedxml.codeplex.com/)
-*   NPOI：该项目是 .NET 版本的 POI 项目，原始的 Java 版本位于[http://poi.apache.org/](http://poi.apache.org/) 。[官网](http://npoi.codeplex.com/)
+*   [NPOI](http://hao.jobbole.com/npoi/)：该项目是 .NET 版本的 POI 项目，原始的 Java 版本位于[http://poi.apache.org/](http://poi.apache.org/) 。[官网](http://npoi.codeplex.com/)
 *   [EPPlus](http://hao.jobbole.com/epplus/)：EPPlus 是一个 .net 类库，用于读写 Open Office Xml 格式的 Excel 2007、2010 文件（xlsx）。[官网](http://epplus.codeplex.com/)
 *   Open XML SDK：Open XML SDK 是一个开源库，用于处理 Open XML 文档（包括 DOCX、XLSX 和 PPTX）。[官网](https://github.com/officedev/open-xml-sdk)
 
@@ -461,7 +461,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   NServiceBus：.NET 平台下最流行的服务总线。[官网](https://github.com/Particular/NServiceBus)
 *   RabbitMQ.NET：AMQP 客户端的 C# 实现，通过 WCF 绑定到已有的 AMQP 服务。[官网](http://hg.rabbitmq.com/rabbitmq-dotnet-client/)
-*   NetMQ：NetMQ 是 ZeroMQ 纯 C# 移植版本。[官网](https://github.com/zeromq/netmq)
+*   [NetMQ](http://hao.jobbole.com/netmq/)：NetMQ 是 ZeroMQ 纯 C# 移植版本。[官网](https://github.com/zeromq/netmq)
 *   MassTransit：MassTransit 是一个精简服务总线（lean service bus）的实现，使用 .NET Framework 来构建松耦合应用程序。[官网](https://github.com/MassTransit/MassTransit)
 *   Rebus：Rebus 是一个 .NET 平台的精简服务总线和 NServiceBus、MassTransit类似，只不过更加精简。[官网](https://github.com/rebus-org/Rebus)
 *   EasyNetQ：易于使用的 RabbitMQ .NET API。[官网](https://github.com/mikehadlow/EasyNetQ)
@@ -474,7 +474,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ## 计划调度（Scheduling）
 
-*   QuartzNet：Quartz 是 .NET 平台的企业级调度器。[官网](https://github.com/quartznet/quartznet)
+*   [QuartzNet](http://hao.jobbole.com/quartz-net/)：Quartz 是 .NET 平台的企业级调度器。[官网](https://github.com/quartznet/quartznet)
 *   Hangfire：在 ASP.NET 应用中，超简单地实现自主引导（fire-and-forget）、延迟和周期重复任务。高级版需要收费。[官网](https://github.com/HangfireIO/Hangfire)
 *   Azure WebJobs：Azure WebJobs 是Azure中App Services一个附属服务，为Azure中运行的Web App提供后台运行环境（支持多种语言编写Job），有.NET的SDK[开源](https://github.com/Azure/azure-webjobs-sdk)，并且可以直接添加扩展[也开源](https://github.com/Azure/azure-webjobs-sdk-extensions)。[官网](https://azure.microsoft.com/en-us/documentation/articles/app-service-webjobs-readme/)
 
@@ -579,7 +579,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Websocket-Sharp：WebSocket 协议的 C# 实现，包含客户端和服务器端。[官网](https://github.com/sta/websocket-sharp)
 *   XSockets：提供了一组工具，可以在微软 .NET 等平台上构建一个实时应用程序。[官网](http://xsockets.net/)
 *   WebSocket4NET：.NET 2.0+、Xamarin、Mono、Silverlight、Windows Phone 以及 WinRT 下的 WebSocket 客户端。[官网](https://websocket4net.codeplex.com)
-*   SuperSocket：一个轻量级, 跨平台而且可扩展的 .Net/Mono Socket 服务器程序框架。[官网](http://www.supersocket.net/)
+*   [SuperSocket](http://hao.jobbole.com/supersocket/)：一个轻量级, 跨平台而且可扩展的 .Net/Mono Socket 服务器程序框架。[官网](http://www.supersocket.net/)
 
 ## Windows 服务（Windows Services）
 
