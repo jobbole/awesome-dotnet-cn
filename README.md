@@ -363,6 +363,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Serilog：一个 NoSQL 时代下简单直接的日志库。将多个优秀的传统结构化分析日志功能合并到一个易于使用的程序集中。[官网](https://github.com/serilog/serilog)
 *   StackExchange.Exceptional：Stack Exchange 网络使用的错误处理程序。[官网](https://github.com/NickCraver/StackExchange.Exceptional)
 *   Semantic Logging Application Block (SLAB)：为内置 System.Diagnostics.Tracing 命名空间（EventSource类）扩展功能，支持将日志记录到多个容器中，包括 Azure 表存储、数据库、文件（JSON、XML、文本文件）。通过 ETW 支持进程内和进程外的日志记录，支持 Rx 进行实时的事件过滤和聚合。[官网](http://slab.codeplex.com/)
+*   Exceptionless：一个免费开源分布式系统的日志收集框架，它可以应用在基于 ASP.NET，ASP.NET Core，Web Api，Web Forms，WPF，Console，MVC 等技术栈的应用程序中，并且提供了Rest接口可以应用在 Javascript，Node.js 中。[官网](http://exceptionless.com/) [Github](https://github.com/exceptionless/Exceptionless)
 
 ## 机器学习和数据科学（Machine Learning and Data Science）
 
