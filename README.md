@@ -599,6 +599,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   TopShelf：一个简单的服务宿主框架，使用 .NET 构建 Windows 服务。[官网](https://github.com/Topshelf/Topshelf)
 
+## 通讯框架（Communication Frameworks）
+
+*   DotNetty：一个快速开发高性能、高可靠性的非阻塞的事件驱动网络应用框架。[官网](https://github.com/Azure/DotNetty)
+*   Helios：一套高性能的Socket通信中间件。[官网](https://github.com/helios-io/helios)
+
 ## 其他列表（Other Lists）
 
 *   [.NET-libraries-that-make-your-life-easier](https://github.com/tallesl/.NET-libraries-that-make-your-life-easier)：开源的 .NET 库，让你的生活更加轻松、
