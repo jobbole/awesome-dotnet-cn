@@ -228,6 +228,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Sandcastle：Sandcastle 帮助文件生成器和 NDoc 类似。[官网](http://shfb.codeplex.com/)
 *   SharpDox：一个 c# 文档工具。[官网](https://github.com/Geaz/sharpDox)
 *   Swashbuckle：向 WebApi 项目无缝地添加 swagger 文档（译者注：swagger 是一套用于生成、描述、展现 RESTful 风格 web 服务文档的框架和规范）。[官网](https://github.com/domaindrivendev/Swashbuckle)
+*   NSwag：通过Swagger规范生成.NET、TypeScript的Web API客户端。[官网](https://github.com/NSwag/NSwag)
 *   F# Formatting：F# 和 C# 项目的文档工具，文档生成自 F# 脚本文件、Markdown 文档、内嵌 XML 或 Markdown评论。[官网](http://tpetricek.github.io/FSharp.Formatting/)
 
 ## 电子商务和支付（E-Commerce and Payments）
@@ -490,6 +491,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   [QuartzNet](http://hao.jobbole.com/quartz-net/)：Quartz 是 .NET 平台的企业级调度器。[官网](https://github.com/quartznet/quartznet)
 *   Hangfire：在 ASP.NET 应用中，超简单地实现自主引导（fire-and-forget）、延迟和周期重复任务。高级版需要收费。[官网](https://github.com/HangfireIO/Hangfire)
+*   Hangfire.Redis.StackExchange：Hangfire的redis扩展库，基于StackExchange.Redis的开源实现。[官网](https://github.com/marcoCasamento/Hangfire.Redis.StackExchange)
 *   Azure WebJobs：Azure WebJobs 是Azure中App Services一个附属服务，为Azure中运行的Web App提供后台运行环境（支持多种语言编写Job），有.NET的SDK[开源](https://github.com/Azure/azure-webjobs-sdk)，并且可以直接添加扩展[也开源](https://github.com/Azure/azure-webjobs-sdk-extensions)。[官网](https://azure.microsoft.com/en-us/documentation/articles/app-service-webjobs-readme/)
 
 ## SDK 和 API 客户端（SDK and API Clients）
