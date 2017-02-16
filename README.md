@@ -44,7 +44,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[Erucy](http://www.jobbole.com/members/Erucy)、[heavenwing](https://github.com/heavenwing)、[Podolski](https://github.com/circler3)、[JRoger](https://github.com/Oger-Me)、你
+- 贡献者：[Erucy](http://www.jobbole.com/members/Erucy)、[heavenwing](https://github.com/heavenwing)、[Podolski](https://github.com/circler3)、[JRoger](https://github.com/Oger-Me)、[cuibty](https://github.com/cuibty)、你
 
 注：名单不分排名，不定期补充更新
 
@@ -228,6 +228,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Sandcastle：Sandcastle 帮助文件生成器和 NDoc 类似。[官网](http://shfb.codeplex.com/)
 *   SharpDox：一个 c# 文档工具。[官网](https://github.com/Geaz/sharpDox)
 *   Swashbuckle：向 WebApi 项目无缝地添加 swagger 文档（译者注：swagger 是一套用于生成、描述、展现 RESTful 风格 web 服务文档的框架和规范）。[官网](https://github.com/domaindrivendev/Swashbuckle)
+*   NSwag：通过Swagger规范生成.NET、TypeScript的Web API客户端。[官网](https://github.com/NSwag/NSwag)
 *   F# Formatting：F# 和 C# 项目的文档工具，文档生成自 F# 脚本文件、Markdown 文档、内嵌 XML 或 Markdown评论。[官网](http://tpetricek.github.io/FSharp.Formatting/)
 
 ## 电子商务和支付（E-Commerce and Payments）
@@ -363,6 +364,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Serilog：一个 NoSQL 时代下简单直接的日志库。将多个优秀的传统结构化分析日志功能合并到一个易于使用的程序集中。[官网](https://github.com/serilog/serilog)
 *   StackExchange.Exceptional：Stack Exchange 网络使用的错误处理程序。[官网](https://github.com/NickCraver/StackExchange.Exceptional)
 *   Semantic Logging Application Block (SLAB)：为内置 System.Diagnostics.Tracing 命名空间（EventSource类）扩展功能，支持将日志记录到多个容器中，包括 Azure 表存储、数据库、文件（JSON、XML、文本文件）。通过 ETW 支持进程内和进程外的日志记录，支持 Rx 进行实时的事件过滤和聚合。[官网](http://slab.codeplex.com/)
+*   Exceptionless：一个免费开源分布式系统的日志收集框架，它可以应用在基于 ASP.NET，ASP.NET Core，Web Api，Web Forms，WPF，Console，MVC 等技术栈的应用程序中，并且提供了Rest接口可以应用在 Javascript，Node.js 中。[官网](http://exceptionless.com/) [Github](https://github.com/exceptionless/Exceptionless)
 
 ## 机器学习和数据科学（Machine Learning and Data Science）
 
@@ -489,6 +491,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   [QuartzNet](http://hao.jobbole.com/quartz-net/)：Quartz 是 .NET 平台的企业级调度器。[官网](https://github.com/quartznet/quartznet)
 *   Hangfire：在 ASP.NET 应用中，超简单地实现自主引导（fire-and-forget）、延迟和周期重复任务。高级版需要收费。[官网](https://github.com/HangfireIO/Hangfire)
+*   Hangfire.Redis.StackExchange：Hangfire的redis扩展库，基于StackExchange.Redis的开源实现。[官网](https://github.com/marcoCasamento/Hangfire.Redis.StackExchange)
 *   Azure WebJobs：Azure WebJobs 是Azure中App Services一个附属服务，为Azure中运行的Web App提供后台运行环境（支持多种语言编写Job），有.NET的SDK[开源](https://github.com/Azure/azure-webjobs-sdk)，并且可以直接添加扩展[也开源](https://github.com/Azure/azure-webjobs-sdk-extensions)。[官网](https://azure.microsoft.com/en-us/documentation/articles/app-service-webjobs-readme/)
 
 ## SDK 和 API 客户端（SDK and API Clients）
@@ -597,6 +600,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ## Windows 服务（Windows Services）
 
 *   TopShelf：一个简单的服务宿主框架，使用 .NET 构建 Windows 服务。[官网](https://github.com/Topshelf/Topshelf)
+
+## 通讯框架（Communication Frameworks）
+
+*   DotNetty：一个快速开发高性能、高可靠性的非阻塞的事件驱动网络应用框架。[官网](https://github.com/Azure/DotNetty)
+*   Helios：一套高性能的Socket通信中间件。[官网](https://github.com/helios-io/helios)
 
 ## 其他列表（Other Lists）
 
