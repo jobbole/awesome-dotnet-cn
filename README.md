@@ -126,6 +126,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   CacheCow：ASP.NET Web API HTTP 客户端和服务器端缓存实现。[官网](https://github.com/aliostad/CacheCow)
 *   Akavache：一个异步、持久化的键值存储。[官网](https://github.com/akavache/Akavache)
+*   CacheManager：是用C#为.NET写的缓存管理抽象层，支持多种缓存工具，可以实现层次化的缓存。[官网](http://cachemanager.michaco.net) 
 
 ## CLI
 
@@ -209,6 +210,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   ILSpy：ILSpy 是一个开源的 .NET 程序集查看器和反编译器。[官网](http://ilspy.net/)
 *   JustDecompile Engine：[JustDecompile](http://www.telerik.com/products/decompiler.aspx) 反编译引擎。[官网](https://github.com/telerik/JustDecompileEngine)
+*   de4dot：是一款强大的.NET程序集反混淆和脱壳工具（开源GPLv3）。[官网](https://github.com/0xd4d/de4dot)
 
 ## 部署（Deployment）
 
