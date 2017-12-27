@@ -44,7 +44,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[Erucy](http://www.jobbole.com/members/Erucy)、[heavenwing](https://github.com/heavenwing)、[Podolski](https://github.com/circler3)、[JRoger](https://github.com/Oger-Me)、[cuibty](https://github.com/cuibty)、你
+- 贡献者：[Erucy](http://www.jobbole.com/members/Erucy)、[heavenwing](https://github.com/heavenwing)、[Podolski](https://github.com/circler3)、[JRoger](https://github.com/Oger-Me)、[cuibty](https://github.com/cuibty)、[tangxuehua](https://github.com/tangxuehua/)、你
 
 注：名单不分排名，不定期补充更新
 
@@ -608,6 +608,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   DotNetty：一个快速开发高性能、高可靠性的非阻塞的事件驱动网络应用框架。[官网](https://github.com/Azure/DotNetty)
 *   Helios：一套高性能的Socket通信中间件。[官网](https://github.com/helios-io/helios)
+*   enode： 一个用来开发DDD、CQRS、EDA 以及事件驱动应用程序的框架。[官网](https://github.com/tangxuehua/enode)
 
 ## 其他列表（Other Lists）
 
