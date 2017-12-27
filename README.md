@@ -44,7 +44,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[Erucy](http://www.jobbole.com/members/Erucy)、[heavenwing](https://github.com/heavenwing)、[Podolski](https://github.com/circler3)、[JRoger](https://github.com/Oger-Me)、[cuibty](https://github.com/cuibty)、[tangxuehua](https://github.com/tangxuehua/)、你
+- 贡献者：[Erucy](http://www.jobbole.com/members/Erucy)、[heavenwing](https://github.com/heavenwing)、[Podolski](https://github.com/circler3)、[JRoger](https://github.com/Oger-Me)、[cuibty](https://github.com/cuibty)、[tangxuehua](https://github.com/tangxuehua/)、[KingNight67](https://github.com/KingNight67)、你
 
 注：名单不分排名，不定期补充更新
 
@@ -320,6 +320,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Visual Studio Community：功能完整的免费 IDE。[官网](http://msdn.microsoft.com/en-us/visual-studio-community-vs.aspx)
 *   Waf DotNetPad：简单快速的代码编辑器，让开发 C# 或 Visual Basic 充满乐趣。[官网](http://dotnetpad.codeplex.com) 
 *   Visual Studio Code：非常棒的编辑器，来自微软，基于 GitHub Atom。[官网](https://code.visualstudio.com/)
+*   Rider：跨平台.Net IDE。[官网](https://www.jetbrains.com/rider/)
 
 ## 图像处理（Image Processing）
 
