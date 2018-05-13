@@ -44,7 +44,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[Erucy](http://www.jobbole.com/members/Erucy)、[heavenwing](https://github.com/heavenwing)、[Podolski](https://github.com/circler3)、[JRoger](https://github.com/Oger-Me)、[cuibty](https://github.com/cuibty)、[tangxuehua](https://github.com/tangxuehua/)、[KingNight67](https://github.com/KingNight67)、你
+- 贡献者：[Erucy](http://www.jobbole.com/members/Erucy)、[heavenwing](https://github.com/heavenwing)、[Podolski](https://github.com/circler3)、[JRoger](https://github.com/Oger-Me)、[cuibty](https://github.com/cuibty)、[tangxuehua](https://github.com/tangxuehua/)、[KingNight67](https://github.com/KingNight67)、[xiaotupansy](https://github.com/xiaotupansy)、你
 
 注：名单不分排名，不定期补充更新
 
@@ -404,7 +404,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ## 度量（Metrics）
 
-*   C# StatsD Client：Etsy StatsD 服务器的 C# 客户端。[官网](https://github.com/goncalopereira/statsd-csharp-client)
+*   C# StatsD Client：Etsy StatsD 服务器的 C# 客户端。[官网](https://github.com/goncalopereira/statsd-csharp-client)
+*   App Metrics：开源跨平台 .NET 报表度量开发库。[官网](https://app-metrics.io/)、[GitHub](https://github.com/AppMetrics/AppMetrics)
 
 ## 微框架（Micro Framework）
 
@@ -422,7 +423,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   LINQPad：一个 C#/VB/F# 的便签本，能够立即执行任何表达式、语句块或程序，带有富文本显示等有用的特性。同样可以让你使用 LINQ 进行交互性数据库查询。 [$]（译者注：也有免费许可，但是功能受限）。[官网](http://www.linqpad.net)
 *   Polly：快捷便利的异常处理策略，例如 重试、始终重试、等待并重试或断路（Circuit Break）等行为。 （.NET 3.5、4.0、4.5、PCL、Xamarin）[官网](https://github.com/michael-wolfenden/Polly)
 *   Rant：Rant 程序文本生成 DSL（领域特定语言）。 [官网](http://berkin.me/rant) [Github](https://github.com/TheBerkin/Rant)
-*   ScriptCS：使用文本编辑器、nuget 和强大的 Roslyn 来编写 C# 应用！[官网](https://github.com/scriptcs/scriptcs)
+*   ScriptCS：使用文本编辑器、nuget 和强大的 Roslyn 来编写 C# 应用！[官网](https://github.com/scriptcs/scriptcs)
+*   EntityFramework-Plus：Entity Framework 扩展，提供工具类、Bulk 操作、批处理/批量更新、查询缓存/过滤器/Future、审计等功能。[官网](http://entityframework-plus.net/)、[GitHub](https://github.com/zzzprojects/EntityFramework-Plus)
 
 ## MVVM
 
@@ -485,6 +487,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Rebus：Rebus 是一个 .NET 平台的精简服务总线和 NServiceBus、MassTransit类似，只不过更加精简。[官网](https://github.com/rebus-org/Rebus)
 *   EasyNetQ：易于使用的 RabbitMQ .NET API。[官网](https://github.com/mikehadlow/EasyNetQ)
 *   Warewolf ESB：易于使用的服务总线和微服务平台，可以在一个可视化 IDE 中便捷的创建应用和服务。[官网](https://github.com/Warewolf-ESB/Warewolf-ESB)
+*   CAP：用于处理分布式事务的 .Net 标准开发库。支持 EventBus，轻量级、高效且易于使用。[官网](https://github.com/dotnetcore/CAP)
 
 ## 响应式编程（Reactive Programming）
 
@@ -559,7 +562,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Rhino Mocks：.NET 平台的动态 Mocking 框架。[官网](https://github.com/ayende/rhino-mocks)
 *   Shouldly：Shouldly 是一个断言（assertion）框架，主要功能是在断言失败时，给出简单明了并且友好的错误信息。[官网](https://github.com/shouldly/shouldly)
 *   SpecFlow：将业务需求绑定到 .Net 代码。[官网](https://github.com/techtalk/SpecFlow/)
-*   xUnit：xUnit.net 是一个 .NET 平台下免费、开源、专注社区的单元测试框架。[官网](https://github.com/xunit/xunit)
+*   xUnit：xUnit.net 是一个 .NET 平台下免费、开源、专注社区的单元测试框架。[官网](https://github.com/xunit/xunit)
+*   BenchmarkDotNet：功能强大的基础测试 .NET 开发库。[官网](http://benchmarkdotnet.org/)、[GitHub](https://github.com/dotnet/BenchmarkDotNet)
 
 ## 交易（Trading）
 
