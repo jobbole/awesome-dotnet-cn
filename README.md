@@ -629,7 +629,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h4>英文站点</h4>
 
-待补充
+*   channel9：第9频道是一个微软的社区网站，诞生于2004年4月1日。 [官网](https://channel9.msdn.com/)
+*   .NET Blog：一个专门用于 .Net 技术交流的博客网站。 [官网](https://blogs.msdn.microsoft.com/dotnet/)
 
 <h3 id="weibo-weixin">微信公众号</h3>
 * 「DotNet」：专注 .NET 相关内容，包括：.NET 和 C# 开发心得、工具资源和相关动态。
