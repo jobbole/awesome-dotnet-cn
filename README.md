@@ -273,7 +273,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   LibGit2Sharp：LibGit2Sharp 带来了 libgit2 所有的功能和速度，是一个本地 Git 实现，可以运行在 .Net 和 Mono 平台。[官网](https://github.com/libgit2/libgit2sharp)
 *   NGit：NGit 是 JGit 移植到 C# 的版本。[官网](https://github.com/mono/ngit)
 *   posh-git：Git 的 PowerShell 环境。[官网](https://github.com/dahlbyk/posh-git)
-
+*   GitCandy：GitCandy是一个 web 应用程序，可以安装在你自己的 IIS 上，用于管理和连接你的 git 仓库。[Github](https://github.com/Aimeast/GitCandy)
+    
 ## 图形（Graphics）
 
 *   Oxyplot：OxyPlot 是一个 .NET 跨平台绘图库。[官网](https://github.com/oxyplot/)
@@ -458,7 +459,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   ServiceStack.OrmLite：轻量、简单、快速、基于命名约定的 POCO ORM。[官网](https://github.com/ServiceStack/ServiceStack.OrmLite)
 *   Massive：小型、令人愉悦的数据访问工具，始终关爱你直到永远。[官网](https://github.com/robconery/massive)
 *   LINQ to DB：最快的 LINQ 数据库访问库，简单、轻量、快速、类型安全，在你的对象（POCO）和数据库之间搭建桥梁。[官网](https://github.com/linq2db/linq2db)
-
+*   SqlSugar：NET 4.+ & .NET CORE 高性能 轻量级 ORM框架，众多.NET框架中最容易使用的数据库访问技术。[官网](http://www.codeisbug.com) [github](https://github.com/sunkaixuan/SqlSugar)
 ## 包管理（Package Management）
 
 *   NuGet：.NET 包管理器。[官网](https://www.nuget.org/)
