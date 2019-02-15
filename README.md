@@ -17,7 +17,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### 如何参与本项目？
 
-从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
+<!-- 从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
 
 不过加入前，有几个小要求：
 
@@ -25,20 +25,36 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * 在用 DotNet；
 
 如有兴趣，请加 QQ：50872495。加 Q 时请注明「DotNet大全」
+ -->
+* * *
+
+### 如何为列表贡献新资源？
+
+欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
+
+* 请确保推荐的资源自己使用过
+* 提交PR时请注明推荐理由
+
+资源列表管理收到PR请求后，会定期（每周）在微博转发本周提交的PR列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
+
+感谢您的贡献！
 
 * * *
 
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[Erucy](http://www.jobbole.com/members/Erucy)、[heavenwing](https://github.com/heavenwing)、[Podolski](https://github.com/circler3)、[JRoger](https://github.com/Oger-Me)、你
+- 贡献者：[Erucy](http://www.jobbole.com/members/Erucy)、[heavenwing](https://github.com/heavenwing)、[Podolski](https://github.com/circler3)、[JRoger](https://github.com/Oger-Me)、[cuibty](https://github.com/cuibty)、[tangxuehua](https://github.com/tangxuehua/)、[KingNight67](https://github.com/KingNight67)、[xiaotupansy](https://github.com/xiaotupansy)、你
 
 注：名单不分排名，不定期补充更新
 
-### 最新活动
+<!-- ### 奖励计划
 
-* **贡献打赏：**整理 20 个资源以上的朋友会开通打赏功能，参见[Dropwizard](http://hao.jobbole.com/dropwizard/)结尾打赏信息。
-* **整理技术资源，赠送经典书籍**： 每整理 20 个资源，赠送技术书籍一本。[活动详情](http://group.jobbole.com/13769/)
+虽然奖励可能并不是你加入的主要原因，但还是有必要提一下：
+
+* 整理超过 20 个资源后，可在伯乐在线上开通打赏；
+* 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
+* [奖励详情](http://hao.jobbole.com/rewards/) -->
 
 * * *
 
@@ -86,6 +102,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Cassette：管理 .NET web 应用程序资源（脚本、css 和 模板）[Cassette](https://github.com/andrewdavey/cassette)
 *   NodeAssets：.net 资源管理器，通过 SignalR 实时更新 css，也可以使用 NodeJS 编译器。[官网](https://github.com/ajorkowski/NodeAssets)
 *   Bundler：编译和最小化 Less、Sass、Stylus、Css、JS、CoffeeScript、LiveScript 文件。MVC集成了 MVC 和 ServiceStack。[官网](https://github.com/ServiceStack/Bundler)
+*   ClientDependency：压缩CSS与JS，提供WebForm与MVC版本。[官网](https://github.com/Shazwazza/ClientDependency)
 *   SquishIt：让你**轻松**合并一些 css 和 javascript。[官网](https://github.com/jetheredge/SquishIt)
 
 ## 认证和授权（Authentication and Authorization）
@@ -109,6 +126,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   CacheCow：ASP.NET Web API HTTP 客户端和服务器端缓存实现。[官网](https://github.com/aliostad/CacheCow)
 *   Akavache：一个异步、持久化的键值存储。[官网](https://github.com/akavache/Akavache)
+*   CacheManager：是用C#为.NET写的缓存管理抽象层，支持多种缓存工具，可以实现层次化的缓存。[官网](http://cachemanager.michaco.net) 
 
 ## CLI
 
@@ -192,6 +210,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   ILSpy：ILSpy 是一个开源的 .NET 程序集查看器和反编译器。[官网](http://ilspy.net/)
 *   JustDecompile Engine：[JustDecompile](http://www.telerik.com/products/decompiler.aspx) 反编译引擎。[官网](https://github.com/telerik/JustDecompileEngine)
+*   de4dot：是一款强大的.NET程序集反混淆和脱壳工具（开源GPLv3）。[官网](https://github.com/0xd4d/de4dot)
 
 ## 部署（Deployment）
 
@@ -212,6 +231,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Sandcastle：Sandcastle 帮助文件生成器和 NDoc 类似。[官网](http://shfb.codeplex.com/)
 *   SharpDox：一个 c# 文档工具。[官网](https://github.com/Geaz/sharpDox)
 *   Swashbuckle：向 WebApi 项目无缝地添加 swagger 文档（译者注：swagger 是一套用于生成、描述、展现 RESTful 风格 web 服务文档的框架和规范）。[官网](https://github.com/domaindrivendev/Swashbuckle)
+*   NSwag：通过Swagger规范生成.NET、TypeScript的Web API客户端。[官网](https://github.com/NSwag/NSwag)
 *   F# Formatting：F# 和 C# 项目的文档工具，文档生成自 F# 脚本文件、Markdown 文档、内嵌 XML 或 Markdown评论。[官网](http://tpetricek.github.io/FSharp.Formatting/)
 
 ## 电子商务和支付（E-Commerce and Payments）
@@ -253,7 +273,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   LibGit2Sharp：LibGit2Sharp 带来了 libgit2 所有的功能和速度，是一个本地 Git 实现，可以运行在 .Net 和 Mono 平台。[官网](https://github.com/libgit2/libgit2sharp)
 *   NGit：NGit 是 JGit 移植到 C# 的版本。[官网](https://github.com/mono/ngit)
 *   posh-git：Git 的 PowerShell 环境。[官网](https://github.com/dahlbyk/posh-git)
-
+*   GitCandy：GitCandy是一个 web 应用程序，可以安装在你自己的 IIS 上，用于管理和连接你的 git 仓库。[Github](https://github.com/Aimeast/GitCandy)
+    
 ## 图形（Graphics）
 
 *   Oxyplot：OxyPlot 是一个 .NET 跨平台绘图库。[官网](https://github.com/oxyplot/)
@@ -300,6 +321,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Visual Studio Community：功能完整的免费 IDE。[官网](http://msdn.microsoft.com/en-us/visual-studio-community-vs.aspx)
 *   Waf DotNetPad：简单快速的代码编辑器，让开发 C# 或 Visual Basic 充满乐趣。[官网](http://dotnetpad.codeplex.com) 
 *   Visual Studio Code：非常棒的编辑器，来自微软，基于 GitHub Atom。[官网](https://code.visualstudio.com/)
+*   Rider：跨平台.Net IDE。[官网](https://www.jetbrains.com/rider/)
 
 ## 图像处理（Image Processing）
 
@@ -347,6 +369,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Serilog：一个 NoSQL 时代下简单直接的日志库。将多个优秀的传统结构化分析日志功能合并到一个易于使用的程序集中。[官网](https://github.com/serilog/serilog)
 *   StackExchange.Exceptional：Stack Exchange 网络使用的错误处理程序。[官网](https://github.com/NickCraver/StackExchange.Exceptional)
 *   Semantic Logging Application Block (SLAB)：为内置 System.Diagnostics.Tracing 命名空间（EventSource类）扩展功能，支持将日志记录到多个容器中，包括 Azure 表存储、数据库、文件（JSON、XML、文本文件）。通过 ETW 支持进程内和进程外的日志记录，支持 Rx 进行实时的事件过滤和聚合。[官网](http://slab.codeplex.com/)
+*   Exceptionless：一个免费开源分布式系统的日志收集框架，它可以应用在基于 ASP.NET，ASP.NET Core，Web Api，Web Forms，WPF，Console，MVC 等技术栈的应用程序中，并且提供了Rest接口可以应用在 Javascript，Node.js 中。[官网](http://exceptionless.com/) [Github](https://github.com/exceptionless/Exceptionless)
 
 ## 机器学习和数据科学（Machine Learning and Data Science）
 
@@ -382,7 +405,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ## 度量（Metrics）
 
-*   C# StatsD Client：Etsy StatsD 服务器的 C# 客户端。[官网](https://github.com/goncalopereira/statsd-csharp-client)
+*   C# StatsD Client：Etsy StatsD 服务器的 C# 客户端。[官网](https://github.com/goncalopereira/statsd-csharp-client)
+*   App Metrics：开源跨平台 .NET 报表度量开发库。[官网](https://app-metrics.io/)、[GitHub](https://github.com/AppMetrics/AppMetrics)
 
 ## 微框架（Micro Framework）
 
@@ -400,7 +424,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   LINQPad：一个 C#/VB/F# 的便签本，能够立即执行任何表达式、语句块或程序，带有富文本显示等有用的特性。同样可以让你使用 LINQ 进行交互性数据库查询。 [$]（译者注：也有免费许可，但是功能受限）。[官网](http://www.linqpad.net)
 *   Polly：快捷便利的异常处理策略，例如 重试、始终重试、等待并重试或断路（Circuit Break）等行为。 （.NET 3.5、4.0、4.5、PCL、Xamarin）[官网](https://github.com/michael-wolfenden/Polly)
 *   Rant：Rant 程序文本生成 DSL（领域特定语言）。 [官网](http://berkin.me/rant) [Github](https://github.com/TheBerkin/Rant)
-*   ScriptCS：使用文本编辑器、nuget 和强大的 Roslyn 来编写 C# 应用！[官网](https://github.com/scriptcs/scriptcs)
+*   ScriptCS：使用文本编辑器、nuget 和强大的 Roslyn 来编写 C# 应用！[官网](https://github.com/scriptcs/scriptcs)
+*   EntityFramework-Plus：Entity Framework 扩展，提供工具类、Bulk 操作、批处理/批量更新、查询缓存/过滤器/Future、审计等功能。[官网](http://entityframework-plus.net/)、[GitHub](https://github.com/zzzprojects/EntityFramework-Plus)
 
 ## MVVM
 
@@ -418,7 +443,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ## Office
 
 *   ClosedXML：ClosedXML 能够让开发人员更便捷地创建 Excel 2007、2010 文件。[官网](https://closedxml.codeplex.com/)
-*   NPOI：该项目是 .NET 版本的 POI 项目，原始的 Java 版本位于[http://poi.apache.org/](http://poi.apache.org/) 。[官网](http://npoi.codeplex.com/)
+*   [NPOI](http://hao.jobbole.com/npoi/)：该项目是 .NET 版本的 POI 项目，原始的 Java 版本位于[http://poi.apache.org/](http://poi.apache.org/) 。[官网](http://npoi.codeplex.com/)
 *   [EPPlus](http://hao.jobbole.com/epplus/)：EPPlus 是一个 .net 类库，用于读写 Open Office Xml 格式的 Excel 2007、2010 文件（xlsx）。[官网](http://epplus.codeplex.com/)
 *   Open XML SDK：Open XML SDK 是一个开源库，用于处理 Open XML 文档（包括 DOCX、XLSX 和 PPTX）。[官网](https://github.com/officedev/open-xml-sdk)
 
@@ -434,7 +459,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   ServiceStack.OrmLite：轻量、简单、快速、基于命名约定的 POCO ORM。[官网](https://github.com/ServiceStack/ServiceStack.OrmLite)
 *   Massive：小型、令人愉悦的数据访问工具，始终关爱你直到永远。[官网](https://github.com/robconery/massive)
 *   LINQ to DB：最快的 LINQ 数据库访问库，简单、轻量、快速、类型安全，在你的对象（POCO）和数据库之间搭建桥梁。[官网](https://github.com/linq2db/linq2db)
-
+*   SqlSugar：NET 4.+ & .NET CORE 高性能 轻量级 ORM框架，众多.NET框架中最容易使用的数据库访问技术。[官网](http://www.codeisbug.com) [github](https://github.com/sunkaixuan/SqlSugar)
 ## 包管理（Package Management）
 
 *   NuGet：.NET 包管理器。[官网](https://www.nuget.org/)
@@ -458,11 +483,12 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   NServiceBus：.NET 平台下最流行的服务总线。[官网](https://github.com/Particular/NServiceBus)
 *   RabbitMQ.NET：AMQP 客户端的 C# 实现，通过 WCF 绑定到已有的 AMQP 服务。[官网](http://hg.rabbitmq.com/rabbitmq-dotnet-client/)
-*   NetMQ：NetMQ 是 ZeroMQ 纯 C# 移植版本。[官网](https://github.com/zeromq/netmq)
+*   [NetMQ](http://hao.jobbole.com/netmq/)：NetMQ 是 ZeroMQ 纯 C# 移植版本。[官网](https://github.com/zeromq/netmq)
 *   MassTransit：MassTransit 是一个精简服务总线（lean service bus）的实现，使用 .NET Framework 来构建松耦合应用程序。[官网](https://github.com/MassTransit/MassTransit)
 *   Rebus：Rebus 是一个 .NET 平台的精简服务总线和 NServiceBus、MassTransit类似，只不过更加精简。[官网](https://github.com/rebus-org/Rebus)
 *   EasyNetQ：易于使用的 RabbitMQ .NET API。[官网](https://github.com/mikehadlow/EasyNetQ)
 *   Warewolf ESB：易于使用的服务总线和微服务平台，可以在一个可视化 IDE 中便捷的创建应用和服务。[官网](https://github.com/Warewolf-ESB/Warewolf-ESB)
+*   CAP：用于处理分布式事务的 .Net 标准开发库。支持 EventBus，轻量级、高效且易于使用。[官网](https://github.com/dotnetcore/CAP)
 
 ## 响应式编程（Reactive Programming）
 
@@ -471,8 +497,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ## 计划调度（Scheduling）
 
-*   QuartzNet：Quartz 是 .NET 平台的企业级调度器。[官网](https://github.com/quartznet/quartznet)
+*   [QuartzNet](http://hao.jobbole.com/quartz-net/)：Quartz 是 .NET 平台的企业级调度器。[官网](https://github.com/quartznet/quartznet)
 *   Hangfire：在 ASP.NET 应用中，超简单地实现自主引导（fire-and-forget）、延迟和周期重复任务。高级版需要收费。[官网](https://github.com/HangfireIO/Hangfire)
+*   Hangfire.Redis.StackExchange：Hangfire的redis扩展库，基于StackExchange.Redis的开源实现。[官网](https://github.com/marcoCasamento/Hangfire.Redis.StackExchange)
 *   Azure WebJobs：Azure WebJobs 是Azure中App Services一个附属服务，为Azure中运行的Web App提供后台运行环境（支持多种语言编写Job），有.NET的SDK[开源](https://github.com/Azure/azure-webjobs-sdk)，并且可以直接添加扩展[也开源](https://github.com/Azure/azure-webjobs-sdk-extensions)。[官网](https://azure.microsoft.com/en-us/documentation/articles/app-service-webjobs-readme/)
 
 ## SDK 和 API 客户端（SDK and API Clients）
@@ -536,7 +563,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Rhino Mocks：.NET 平台的动态 Mocking 框架。[官网](https://github.com/ayende/rhino-mocks)
 *   Shouldly：Shouldly 是一个断言（assertion）框架，主要功能是在断言失败时，给出简单明了并且友好的错误信息。[官网](https://github.com/shouldly/shouldly)
 *   SpecFlow：将业务需求绑定到 .Net 代码。[官网](https://github.com/techtalk/SpecFlow/)
-*   xUnit：xUnit.net 是一个 .NET 平台下免费、开源、专注社区的单元测试框架。[官网](https://github.com/xunit/xunit)
+*   xUnit：xUnit.net 是一个 .NET 平台下免费、开源、专注社区的单元测试框架。[官网](https://github.com/xunit/xunit)
+*   BenchmarkDotNet：功能强大的基础测试 .NET 开发库。[官网](http://benchmarkdotnet.org/)、[GitHub](https://github.com/dotnet/BenchmarkDotNet)
 
 ## 交易（Trading）
 
@@ -576,11 +604,17 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Websocket-Sharp：WebSocket 协议的 C# 实现，包含客户端和服务器端。[官网](https://github.com/sta/websocket-sharp)
 *   XSockets：提供了一组工具，可以在微软 .NET 等平台上构建一个实时应用程序。[官网](http://xsockets.net/)
 *   WebSocket4NET：.NET 2.0+、Xamarin、Mono、Silverlight、Windows Phone 以及 WinRT 下的 WebSocket 客户端。[官网](https://websocket4net.codeplex.com)
-*   SuperSocket：一个轻量级, 跨平台而且可扩展的 .Net/Mono Socket 服务器程序框架。[官网](http://www.supersocket.net/)
+*   [SuperSocket](http://hao.jobbole.com/supersocket/)：一个轻量级, 跨平台而且可扩展的 .Net/Mono Socket 服务器程序框架。[官网](http://www.supersocket.net/)
 
 ## Windows 服务（Windows Services）
 
 *   TopShelf：一个简单的服务宿主框架，使用 .NET 构建 Windows 服务。[官网](https://github.com/Topshelf/Topshelf)
+
+## 通讯框架（Communication Frameworks）
+
+*   DotNetty：一个快速开发高性能、高可靠性的非阻塞的事件驱动网络应用框架。[官网](https://github.com/Azure/DotNetty)
+*   Helios：一套高性能的Socket通信中间件。[官网](https://github.com/helios-io/helios)
+*   enode： 一个用来开发DDD、CQRS、EDA 以及事件驱动应用程序的框架。[官网](https://github.com/tangxuehua/enode)
 
 ## 其他列表（Other Lists）
 
@@ -596,7 +630,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h4>英文站点</h4>
 
-待补充
+*   channel9：第9频道是一个微软的社区网站，诞生于2004年4月1日。 [官网](https://channel9.msdn.com/)
+*   .NET Blog：一个专门用于 .Net 技术交流的博客网站。 [官网](https://blogs.msdn.microsoft.com/dotnet/)
 
 <h3 id="weibo-weixin">微信公众号</h3>
 * 「DotNet」：专注 .NET 相关内容，包括：.NET 和 C# 开发心得、工具资源和相关动态。
