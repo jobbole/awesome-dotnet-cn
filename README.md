@@ -211,6 +211,7 @@
 * [Microservices in .NET Core](https://www.manning.com/books/microservices-in-net-core-second-edition) - 使用.NET栈构建微服务系统的综合指南。 **[$]**
 * [Dependency Injection in .NET](https://www.manning.com/books/dependency-injection-principles-practices-patterns) [2nd edition](https://www.manning.com/books/dependency-injection-principles-practices-patterns) - 教你怎样在.NET中使用依赖注入来减少应用组件间的硬编码依赖。 **[$]**
 * [ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action) - ASP.NET Core web 应用开发教程。 **[$]**
+* [ASP.NET Core in Action, Third Edition](https://www.manning.com/books/asp-net-core-in-action-third-edition) - ASP.NET Core web 应用开发教程。 **[$]**
 * [Entity Framework Core in Action](https://www.manning.com/books/entity-framework-core-in-action) - 教你怎样使用 Entity Framework Core，包括轻量级的数据访问替代，如Dapper。 **[$]**
 * [The Little ASP.NET Core Book](https://recaffeinate.co/book/) - 免费、开源、入门级的书籍，旨在提供对ASP.NET Core的简单介绍。
 
