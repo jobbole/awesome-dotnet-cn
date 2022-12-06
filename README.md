@@ -114,6 +114,7 @@
   * [Windows服务](#Windows服务)
   * [WPF](#wpf)
   * [解析器库(Parser Library)](#解析器库)
+  * [k8s](#k8s)
 * [其他列表](#其他列表)
 * [资源](#资源)
 
@@ -1128,6 +1129,10 @@
 * [FParsec](https://github.com/stephan-tolksdorf/fparsec) - 用于F#的解析器组合子库。
 * [Superpower](https://github.com/datalust/superpower) - 有着高质量错误报告的C#解析器构造工具套件。
 * [CSLY](https://github.com/b3b00/CSLY) - 轻量级嵌入式词法分析器/解析器生成器。
+
+## k8s
+* [Blazork8s](https://github.com/weibaohui/blazork8s) - 使用Blazor 和 net core 开发 k8s 管理工具。
+
 
 ## 其他列表
 
