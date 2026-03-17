@@ -604,6 +604,7 @@
 * [TeximpNet](https://bitbucket.org/Starnick/teximpnet) -读/操作/写图像文件的跨平台 .NET Standard 库。在图形/游戏应用中主要用于创建2D/3D/Cubemap结构，尤其是将图像转换为GPU压缩格式并生成mipmap。该库封装FreeImage本地库以导入/导出超过30种图像格式，还封装 Nvidia Texture Tools 本地库用于GPU压缩。它还有C#开发的全功能DDS格式导入/导出。
 * [Colourful](https://github.com/tompazourek/Colourful) - 开源.NET库用于使用彩色空间。
 * [Imgix-CSharp](https://docs.imgix.com/libraries/imgix-csharp) - 轻松的把图像url更新为快速且可响应的。 **[$]**
+* [ImageMinify](https://github.com/Moresl/ImageMinify) - 轻量级图片批量压缩工具，支持 JPEG/PNG/WebP 格式，基于 WPF + ImageSharp 构建。
 
 ## 安装工具
 
