@@ -747,6 +747,7 @@
 * [CSScript](https://www.cs-script.net/) - CS-Script是一个基于CLR的脚本系统，使用C#作为编程语言。CS-Script目前针对微软的CLR实现（.NET 2.0/3.0/3.5/4.0/4.5）并完整支持Mono。附带很多附加特性，比如脚本宿主。
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) - 帮助读写CSV文件的开发库。https://github.com/JoshClose/CsvHelper
 * [Hashids.net](https://github.com/ullmark/hashids.net) - 按照https://hashids.org，从整型变量中生成唯一的短整型id。 
+* [Corterm](https://github.com/monster-echo/CortexTerminal2) - 云枢终端 — 自托管远程终端平台。基于xterm.js的浏览器原生终端，支持会话持久化、多节点管理。提供iOS、Android、HarmonyOS原生移动端应用。MIT协议，Docker一键部署。
 * [ConsoleTableExt](https://github.com/minhhungit/ConsoleTableExt) - .Net控制台应用生成表格的库。
 * [FlatMapper](https://github.com/joaomatossilva/FlatMapper) - 以兼容LINQ的方式在纯文本文件间导入和导出数据的库。
 * [FluentValidation](https://github.com/FluentValidation/FluentValidation) - 一个小型的.NET校验库，使用流式接口和lambda表达式构建校验规则。
