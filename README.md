@@ -742,7 +742,7 @@
 * [CompressedStaticFiles](https://github.com/AnderssonPeter/CompressedStaticFiles) - 把压缩过的静态文件发送给浏览器而不用压缩命令，当浏览器声明支持时还可以发送更高级的图片格式。
 
 ## 杂项
-* [CSharp Pad](http://csharppad.com) - 有着非常不错的代码完成度的基于C#的REPL。
+* [Coddy C# Playground](https://coddy.tech/playground/csharp) - 有着非常不错的代码完成度的基于C#的REPL。
 * [AzureCrawler](https://github.com/yagopv/AzureCrawler) - 从 Angular、Ember、Durandal 或任何JavaScript应用中获取HTML快照。
 * [CSScript](https://www.cs-script.net/) - CS-Script是一个基于CLR的脚本系统，使用C#作为编程语言。CS-Script目前针对微软的CLR实现（.NET 2.0/3.0/3.5/4.0/4.5）并完整支持Mono。附带很多附加特性，比如脚本宿主。
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) - 帮助读写CSV文件的开发库。https://github.com/JoshClose/CsvHelper
